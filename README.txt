@@ -11,7 +11,7 @@ Contact: zhan_xyue00@sjtu.edu.cn / ytzhou@sjtu.edu.cn
 
 ### data/ - Research Data ###
 Comprehensive dataset for oxygen subduction analysis. See 'README_data.txt' for detailed variable descriptions, units, and processing workflows.
-上传在zenodo
+Datas are available at Zenodo: Wait for uploading...
 
 - ** grid/ ** - Spatial reference data
   - basin_mask_pacific.mat - Pacific Ocean basin definitions
